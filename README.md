@@ -212,8 +212,8 @@ During my Data Analytics Internship at @CodeAlpha, I developed "CodeAlpha_DataVi
 • Task 4 (Sentiment Analysis): Applied VADER & TextBlob NLP lexicons to classify review sentiments, identify aspect-based customer pain points (battery life, display, software), and detect sarcasm anomalies.
 • Full Interactive App: Deployed a dynamic Streamlit web dashboard allowing users to filter categories, run live scrapers, and test custom review sentiments in real-time!
 
-🔗 GitHub Repository: https://github.com/YOUR_USERNAME/CodeAlpha_DataVizAnalyzer
-🎥 Video Walkthrough: [Insert your video link here]
+🔗 GitHub Repository: https://nethminirathnayaka.github.io/CodeAlpha_DataVizAnalyzer/
+🎥 Video Walkthrough: https://lnkd.in/p/gBc7s685
 
 A huge thank you to @CodeAlpha for this enriching learning experience! 💡
 
